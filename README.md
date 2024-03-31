@@ -11,11 +11,11 @@ Visualization and reporting: Creating informative visualizations and reports to 
 
 Tools and Technologies:
 
-Python
-Jupyter Notebooks
-Libraries:
-  pandas
-  Matplotlib
-  seaborn
-  numpy
-  regex
+1. Python
+2. Jupyter Notebooks
+3. Libraries:
+      .pandas
+      .Matplotlib
+      .seaborn
+      .numpy
+      .regex
