@@ -14,9 +14,8 @@ Tools and Technologies:
 1. Python
 2. Jupyter Notebooks
 3. Libraries:
-   
-      1.pandas
-      2.Matplotlib
-      3.seaborn
-      4.numpy
-      5.regex
+   1.pandas
+   2.Matplotlib
+   3.seaborn
+   4.numpy
+   5.regex
